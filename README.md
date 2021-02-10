@@ -1,18 +1,8 @@
-# Angular-10 - ShoppingCart + MDBootstrap + Firebase (Realtime Database) + i18n
+# Angular-10 - Mert Cart + MDBootstrap + Firebase (Realtime Database) + i18n
 
-[![HitCount](http://hits.dwyl.io/mercart/Angular-ShoppingCart.svg)](http://hits.dwyl.io/mercart/Angular-ShoppingCart)
-[![GitHub forks](https://img.shields.io/github/forks/mercart/Angular-ShoppingCart.svg)](https://github.com/mercart/Angular-ShoppingCart/network) [![GitHub stars](https://img.shields.io/github/stars/mercart/Angular-ShoppingCart.svg)](https://github.com/mercart/Angular-ShoppingCart/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/mercart/Angular-ShoppingCart.svg)](https://github.com/mercart/Angular-ShoppingCart/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/mercart/Angular-ShoppingCart/blob/master/LICENSE)
-[![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://angular-shoppingcart.firebaseapp.com/)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/mercart/Angular-ShoppingCart.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmercart%2FAngular-ShoppingCart)
 
-<!-- [![Github Dependencies](https://david-dm.org/mercart/Angular-ShoppingCart.svg)](https://david-dm.org/mercart/Angular-ShoppingCart.svg) -->
-<!-- [![Build Status](https://travis-ci.org/mercart/Angular-ShoppingCart.svg?branch=master)](https://travis-ci.org/mercart/Angular-ShoppingCart) -->
+Developing a **Mert Cart (Ecommerce) Application using Angular-10**.
 
-Developing a **ShoppingCart (Ecommerce) Application using Angular-10**.
-
-**Live Demo** : [Angular-shopping-cart](https://angular-shoppingcart.firebaseapp.com/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
@@ -116,15 +106,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Home Page:
 
-![Alt text](https://github.com/mercart/Angular-ShoppingCart/blob/master/screenshots/home.PNG "Home Page")
+![Alt text](https://github.com/mercart/Angular-Mert Cart/blob/master/screenshots/home.PNG "Home Page")
 
 ### Products Page:
 
-![Alt text](https://github.com/mercart/Angular-ShoppingCart/blob/master/screenshots/products.PNG "Home Page")
+![Alt text](https://github.com/mercart/Angular-Mert Cart/blob/master/screenshots/products.PNG "Home Page")
 
 ### Work Board Page:
 
-![Alt text](https://github.com/mercart/Angular-ShoppingCart/blob/master/screenshots/drag&drop.PNG "Home Page")
+![Alt text](https://github.com/mercart/Angular-Mert Cart/blob/master/screenshots/drag&drop.PNG "Home Page")
 
 ## Development server
 
@@ -154,6 +144,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - If you find that something's wrong with this package, you can let me know by raising an issue on the GitHub issue tracker
 
-## License
 
-This project is licensed under the MIT License - see the [MIT license](https://github.com/mercart/Angular-ShoppingCart/blob/master/LICENSE) file for details
